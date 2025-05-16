@@ -33,8 +33,7 @@ func expon(base int, exponte int) int {
 	}
 	return acum
 }   
-  
-  
+    
 func  main(){
   	   
 	   var numero1 int
